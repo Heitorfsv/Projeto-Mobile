@@ -1,0 +1,15 @@
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\bin\Debug\netstandard2.0\AstroMemory.deps.json
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\bin\Debug\netstandard2.0\AstroMemory.dll
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\bin\Debug\netstandard2.0\ref\AstroMemory.dll
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\bin\Debug\netstandard2.0\AstroMemory.pdb
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.csproj.AssemblyReference.cache
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.AssemblyInfoInputs.cache
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.AssemblyInfo.cs
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.csproj.CoreCompileInputs.cache
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.dll
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\refint\AstroMemory.dll
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.pdb

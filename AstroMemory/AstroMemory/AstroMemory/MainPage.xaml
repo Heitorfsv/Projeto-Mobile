@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AstroMemory.MainPage">
+
+    <StackLayout BackgroundColor="#011732">
+        
+        <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <Label Text="AstroMemory" FontFamily="times new roman" TextColor="#B050B8" FontAttributes="Bold" FontSize="35" AbsoluteLayout.LayoutBounds=" 2.2, 0.04, 380, 86" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <Frame Margin="25,0,25,0" CornerRadius="30" BackgroundColor="#012C66" AbsoluteLayout.LayoutBounds="0.5, 0.16, 380, 86" AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Label HorizontalOptions="Center" Text="Escreva uma data especial" FontSize="20" FontFamily="times new roman"/>
+            </Frame>
+
+
+            <Frame CornerRadius="30" Padding="0, 0, 0, 0" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5, 0.33, 250, 60" AbsoluteLayout.LayoutFlags="PositionProportional">
+                <DatePicker x:Name="puxar_data"
+                    Format="dd/MM/yyyy"
+                    Date="01/01/0001"
+                    BackgroundColor="White"
+                    TextColor="Black"
+                    HorizontalOptions="Center"
+                />
+            </Frame>
+
+            <Button Clicked="clicado" Text="Gerar imagem" FontFamily="times new roman" FontSize="19" FontAttributes="Bold" BackgroundColor="#012C66" CornerRadius="100" AbsoluteLayout.LayoutBounds="0.5, 0.5, 250, 80" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <Image Source="{Binding url}" AbsoluteLayout.LayoutBounds="0.5, 1, 1000, 250" AbsoluteLayout.LayoutFlags="PositionProportional"></Image>
+
+        </AbsoluteLayout>
+    </StackLayout>
+
+</ContentPage>

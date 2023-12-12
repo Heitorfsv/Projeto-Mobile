@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroMemory.Android", "AstroMemory\AstroMemory.Android\AstroMemory.Android.csproj", "{131038CE-7A18-46F1-8D0D-5B73DEA70387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroMemory", "AstroMemory\AstroMemory\AstroMemory.csproj", "{F54A37C3-CE13-45D3-B770-0118D3732F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131038CE-7A18-46F1-8D0D-5B73DEA70387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131038CE-7A18-46F1-8D0D-5B73DEA70387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131038CE-7A18-46F1-8D0D-5B73DEA70387}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{131038CE-7A18-46F1-8D0D-5B73DEA70387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131038CE-7A18-46F1-8D0D-5B73DEA70387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131038CE-7A18-46F1-8D0D-5B73DEA70387}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F54A37C3-CE13-45D3-B770-0118D3732F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54A37C3-CE13-45D3-B770-0118D3732F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54A37C3-CE13-45D3-B770-0118D3732F48}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F54A37C3-CE13-45D3-B770-0118D3732F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54A37C3-CE13-45D3-B770-0118D3732F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54A37C3-CE13-45D3-B770-0118D3732F48}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28743EB-198D-43E6-AB7C-361C7D635DA7}
+	EndGlobalSection
+EndGlobal

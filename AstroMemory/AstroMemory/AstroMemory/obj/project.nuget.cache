@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3kpIy812uVx5OOC0aCnB75pcUvlKOnLsZc2JZE/hAd28BSEpv8FlrgVCP9m2+uitRcHVfRCM9LdScROEbq3GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heito\\source\\repos\\AstroMemory\\AstroMemory\\AstroMemory\\AstroMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heito\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\heito\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\heito\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\heito\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\heito\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\heito\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
