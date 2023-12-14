@@ -13,3 +13,4 @@ C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netsta
 C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.dll
 C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\refint\AstroMemory.dll
 C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.pdb
+C:\Users\heito\source\repos\AstroMemory\AstroMemory\AstroMemory\obj\Debug\netstandard2.0\AstroMemory.sourcelink.json

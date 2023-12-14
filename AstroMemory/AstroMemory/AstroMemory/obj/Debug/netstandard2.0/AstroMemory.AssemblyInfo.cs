@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AstroMemory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b7c3d28fcc9be4eef063fad42b67c077a7ad8e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AstroMemory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AstroMemory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,7 +8,7 @@
         <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
             <Label Text="AstroMemory" FontFamily="times new roman" TextColor="#B050B8" FontAttributes="Bold" FontSize="35" AbsoluteLayout.LayoutBounds=" 2.2, 0.04, 380, 86" AbsoluteLayout.LayoutFlags="PositionProportional"/>
             <Frame Margin="25,0,25,0" CornerRadius="30" BackgroundColor="#012C66" AbsoluteLayout.LayoutBounds="0.5, 0.16, 380, 86" AbsoluteLayout.LayoutFlags="PositionProportional">
-                <Label HorizontalOptions="Center" Text="Escreva uma data especial" FontSize="20" FontFamily="times new roman"/>
+                <Label x:Name="Label1" HorizontalOptions="Center" Text="Escreva uma data especial" FontSize="20" FontFamily="times new roman"/>
             </Frame>
 
 

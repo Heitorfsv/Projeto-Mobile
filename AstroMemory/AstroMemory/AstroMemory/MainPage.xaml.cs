@@ -25,8 +25,24 @@ namespace AstroMemory
 
         public void clicado(object sender, EventArgs args)
         {
+            Label1.Text = "Esta é sua imagem especial";
             DateTime selectedDate = puxar_data.Date;
             string formattedDate = selectedDate.ToString("yyyy-MM-dd");
+            int ano = selectedDate.Year;
+            int mes = selectedDate.Month;
+            int dia = selectedDate.Day;
+
+            if (ano < 1995)
+            {
+                if (mes < 6)
+                {
+                    if (dia < 16)
+                    {
+                        Label1.Text = "Selecione uma data a partir de 16 de junho de 1995";
+                    }
+                }
+            }
+
             PuxarDados(API_key, formattedDate);
         }
 
